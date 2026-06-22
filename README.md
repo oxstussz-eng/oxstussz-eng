@@ -3,9 +3,8 @@
 ####  Platform & Tools
 <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@github.readme?theme=asoul" height="100" align="right"></a>
 
-[![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=for-the-badge&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
-[![](https://img.shields.io/badge/OS-Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=ffffff)](https://www.kali.org/)
 [![](https://img.shields.io/badge/OS-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=ffffff)](https://ubuntu.com/)
+[![](https://img.shields.io/badge/OS-Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=ffffff)](https://www.kali.org/)
 [![](https://img.shields.io/badge/Windows-11-4e9eee?style=for-the-badge&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/windows-11)   
 [![](https://img.shields.io/badge/Laptop-ThinkPad-1A1A1A?style=for-the-badge&logo=lenovo&logoColor=ffffff)](https://www.lenovo.com/us/en/thinkpad)
 [![](https://img.shields.io/badge/Phone-Redmi-FF6700?style=for-the-badge&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/global/)   
