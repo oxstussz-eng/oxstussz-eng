@@ -1,13 +1,14 @@
-<h2 align="center"><a href="https://github.com/oxstussz-eng"><img src="https://raw.githubusercontent.com/oxstussz-eng/zxc/main/saywazup1337.svg"/></a>🌱</h2>
+<h2 align="center"><a href="https://github.com/oxstussz-eng"><img src="https://raw.githubusercontent.com/oxstussz-eng/zxc/main/saywazup1337.svg" alt="Hey, I'm OxStussz!" /></a>🌱</h2>
 
 ####  Platform & Tools
 <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@github.readme?theme=asoul" height="100" align="right"></a>
 
 [![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=for-the-badge&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
-[![](https://img.shields.io/badge/MacBook-M4%20Pro-292e33?style=for-the-badge&logo=apple&logoColor=ffffff)](https://support.apple.com/en-us/121553)
+[![](https://img.shields.io/badge/OS-Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=ffffff)](https://www.kali.org/)
+[![](https://img.shields.io/badge/OS-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=ffffff)](https://ubuntu.com/)
 [![](https://img.shields.io/badge/Windows-11-4e9eee?style=for-the-badge&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/windows-11)   
-[![](https://img.shields.io/badge/OPPO-Find%20N5-006C32?style=for-the-badge&logo=android&logoColor=ffffff)](https://www.oppo.com/cn/smartphones/series-find-n/find-n5/)
-[![](https://img.shields.io/badge/iPhone-13%20Pro-999999?style=for-the-badge&logo=apple&logoColor=ffffff)](https://www.apple.com/)   
+[![](https://img.shields.io/badge/Laptop-ThinkPad-1A1A1A?style=for-the-badge&logo=lenovo&logoColor=ffffff)](https://www.lenovo.com/us/en/thinkpad)
+[![](https://img.shields.io/badge/Phone-Redmi-FF6700?style=for-the-badge&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/global/)   
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 
 ---
@@ -31,15 +32,15 @@
 [![](https://img.shields.io/badge/-Nginx-269539?style=for-the-badge&logo=nginx&logoColor=ffffff)](https://nginx.org/)
 [![](https://img.shields.io/badge/-Node.js-43853d?style=for-the-badge&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
 [![](https://img.shields.io/badge/-Bun-13151B?style=for-the-badge&logo=bun&logoColor=FBF0DF)](https://bun.com/)
-![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Shell Script](https://img.shields.io/badge/-Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+[![](https://img.shields.io/badge/-Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)](https://www.lua.org/)
+[![](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](https://www.open-std.org/jtc1/sc22/wg14/)
+[![](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
+[![](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+[![](https://img.shields.io/badge/-Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
+[![](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 
 ---
 
@@ -51,9 +52,10 @@
 
 ---
 
-### Social
+### Social & Security:
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oxstussz-eng)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/oma.bells/)
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/stussz0)
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1106881674295386142)
+[![TryHackMe](https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/OxStussz)
