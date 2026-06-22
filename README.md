@@ -1,9 +1,4 @@
-<h2 align="center"><a href="https://github.com/oxstussz-eng">
-  <img src="https://raw.githubusercontent.com/oxstussz-eng/zxc/main/saywazup1337.svg" alt="Hey, I'm OxStussz!" />
-  </a>🌱
-</h2>
-
----
+<h2 align="center"><a href="https://github.com/oxstussz-eng"><img src="https://raw.githubusercontent.com/oxstussz-eng/zxc/main/saywazup1337.svg" alt="Hey, I'm OxStussz!" /></a>🌱</h2>
 
 ####  Platform & Tools
 <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@github.readme?theme=asoul" height="100" align="right"></a>
