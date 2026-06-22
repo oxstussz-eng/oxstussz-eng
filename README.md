@@ -1,6 +1,6 @@
 <h2 align="center"><a href="https://github.com/oxstussz-eng"><img src="https://raw.githubusercontent.com/oxstussz-eng/zxc/main/saywazup1337.svg" alt="Hey, I'm OxStussz!" /></a></h2>
 
-####  Platform & Tools:
+####  Platform & Tools
 <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@OxStussz?theme=asoul" height="100" align="right"></a>
 
 [![](https://img.shields.io/badge/OS-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=ffffff)](https://ubuntu.com/)
@@ -12,7 +12,7 @@
 
 ---
 
-####  Languages & Frameworks:
+####  Languages & Frameworks
 
 [![](https://img.shields.io/badge/-Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)](https://www.lua.org/)
 [![](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -45,15 +45,13 @@
 
 ---
 
-### GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=oxstussz-eng&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 ---
 
-### Social:
+### Social
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oxstussz-eng)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/oma.bells/)
