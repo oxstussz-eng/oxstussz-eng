@@ -1,15 +1,11 @@
 <h2 align="center"><a href="https://github.com/oxstussz-eng">
   <img src="https://raw.githubusercontent.com/oxstussz-eng/zxc/main/saywazup1337.svg" alt="Hey, I'm OxStussz!" />
-  </a>
+  </a>🌱
 </h2>
-
-<p align="center">
-  🌱 <em>Building cool stuff and learning new things every day</em>
-</p>
 
 ---
 
-#### 💻 Platform & Tools
+####  Platform & Tools
 <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@github.readme?theme=asoul" height="100" align="right"></a>
 
 [![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=for-the-badge&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
@@ -21,7 +17,7 @@
 
 ---
 
-#### 🛠️ Languages & Frameworks
+####  Languages & Frameworks
 
 [![](https://img.shields.io/badge/-Webpack-8dd6f9?style=for-the-badge&logo=webpack&logoColor=white)](https://webpack.js.org/)
 [![](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
@@ -37,8 +33,6 @@
 [![](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=ffffff)](https://vitejs.dev/)   
 [![](https://img.shields.io/badge/-Linux-fcc624?style=for-the-badge&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)
 [![](https://img.shields.io/badge/-JavaScript-f7e018?style=for-the-badge&logo=javascript&logoColor=white)](https://www.ecma-international.org/)
-[![](https://img.shields.io/badge/-Vue.js-4fc08d?style=for-the-badge&logo=vue.js&logoColor=ffffff)](https://vuejs.org/)
-[![](https://img.shields.io/badge/-MongoDB-47a248?style=for-the-badge&logo=mongodb&logoColor=ffffff)](https://www.mongodb.com/)
 [![](https://img.shields.io/badge/-Nginx-269539?style=for-the-badge&logo=nginx&logoColor=ffffff)](https://nginx.org/)
 [![](https://img.shields.io/badge/-Node.js-43853d?style=for-the-badge&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
 [![](https://img.shields.io/badge/-Bun-13151B?style=for-the-badge&logo=bun&logoColor=FBF0DF)](https://bun.com/)
@@ -54,7 +48,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=oxstussz-eng&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
@@ -62,7 +56,7 @@
 
 ---
 
-### 📫 Connect with Me
+### Social
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oxstussz-eng)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/oma.bells/)
