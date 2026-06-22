@@ -1,7 +1,7 @@
 <h2 align="center"><a href="https://github.com/oxstussz-eng"><img src="https://raw.githubusercontent.com/oxstussz-eng/zxc/main/saywazup1337.svg" alt="Hey, I'm OxStussz!" /></a>🌱</h2>
 
 ####  Platform & Tools:
-<a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@github.readme?theme=asoul" height="100" align="right"></a>
+<a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@OxStussz?theme=asoul" height="100" align="right"></a>
 
 [![](https://img.shields.io/badge/OS-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=ffffff)](https://ubuntu.com/)
 [![](https://img.shields.io/badge/OS-Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=ffffff)](https://www.kali.org/)
@@ -21,6 +21,7 @@
 [![](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=ffffff)](https://nextjs.org/)   
 [![](https://img.shields.io/badge/-PostCSS-dd3a0a?style=for-the-badge&logo=postcss&logoColor=white)](https://postcss.org/)
 [![](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
+[![](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
 [![](https://img.shields.io/badge/-Git-f05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![](https://img.shields.io/badge/-rollup.js-ec4a3f?style=for-the-badge&logo=rollup.js&logoColor=ffffff)](https://rollupjs.org/)
 [![](https://img.shields.io/badge/-Stylus-ff6347?style=for-the-badge&logo=stylus&logoColor=ffffff)](https://stylus-lang.com/)
@@ -40,6 +41,7 @@
 [![](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
 [![](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
 ---
 
