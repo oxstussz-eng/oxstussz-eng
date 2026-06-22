@@ -45,8 +45,18 @@
 
 ---
 
+### GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oxstussz-eng&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=oxstussz-eng&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oxstussz-eng&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oxstussz-eng&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
