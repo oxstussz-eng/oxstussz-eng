@@ -47,17 +47,49 @@
 
 ### GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oxstussz-eng&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
-</p>
+class WhoIsThis 🧑‍💻:
+    user = "OXStusz 👨"
+    current_year = "2025 📆"
+    current_work = "Writing code with music essentials 🎧💻✨"
+    current_city = "Vadodara, Gujarat 🇮🇳 🌍"
+    current_project = "Developing a Web-App: FestivityFlippers 🎉🎯"
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oxstussz-eng&layout=compact&theme=dark" alt="Most Used Languages" />
-</p>
+    hobbies = [
+            "Singing 🎤", "Travelling Like All Others ✈️🌍", "Drawing ✏️🎨",
+            "Watching old romantic movies 🎬❤️", "Being up all night chasing that ONE BUG... 🐞🌙💡"
+    ]
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oxstussz-eng&theme=dark" alt="GitHub Streak" />
-</p>
+    favorite_singers = {
+        "Gujarati": ["Sachin-Jigar 🎶", "Aditya Gadhvi 🎵", "Gazals: Manhar Udhas 🎤"],
+        "Hindi": ["Arijit Singh 🎶", "Darshan Raval 🎵", "KK 🎤", "Atif Aslam 🎶", 
+                  "Vishal-Shekhar 🎹", "Ankit Tiwari 🎼", "Mithoon 🎵"],
+        "Punjabi": ["Harnoor B 🎶", "B Praak 🎵", "AP Dhillon 🎤", "Kaka 🎶", "Jass Manak 🎵"],
+        "English": ["Ed Sheeran 🎸", "Alan Walker 🎧", "Ruth B 🎤", "Adam Levine 🎵"]
+    }
+
+    favorite_music_directors = ["R.D. Burman 🎶", "Pritam 🎵"]
+
+    ask_me_about = [
+                 "Web Development 🌐", "App Development 📱", 
+                 "Foody Talks 🍔", "Singing 🎤", "Creative Drawing ✏️"
+    ]
+
+    architecture_interest = ["Serverless Architecture 🧩", "Progressive Web Apps ⚙️", "Single Page Applications 🖥️"]
+
+    get_my_ambitions = [
+            "Master Cloud Computing ☁️",
+            "Crack a Google Interview and work at Google 💼✨",
+            "Build a Cross-Platform Game 🎮",
+            "Win a Design or Code Hackathon 🏆",
+            "Give a TED Talk on Tech + Creativity 🎤🧠",
+            "Build a Personal AI Assistant 🤖",
+            "Contribute to the Developer Community via YouTube or Blogs 📹✍️",
+            "Launch My Own Android App Startup 🚀📱",
+            "Record a Cover Song and Post on Spotify 🎶",
+            "Mentor Students or Juniors in Tech 👨‍🏫",
+            "Drink less coffee... maybe ☕😅"
+            # More dreams loading... 🔄😉
+        ]
 
 ---
 
