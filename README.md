@@ -48,15 +48,15 @@
 ### GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=oxstussz-eng&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oxstussz-eng&layout=compact&theme=dark" alt="Most Used Languages" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=oxstussz-eng&theme=dark" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=oxstussz-eng&theme=darkhub&no-frame=true" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oxstussz-eng&theme=react-dark" alt="GitHub Activity Graph" />
 </p>
 
 ---
