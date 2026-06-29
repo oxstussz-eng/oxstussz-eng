@@ -49,9 +49,15 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/oxstussz-eng">
-    <img align="center" src="https://raw.githubusercontent.com/Hunterdii/GitHub-Terminal/refs/heads/master/github_stats.svg" alt="GitHub Terminal Stats" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oxstussz-eng&theme=dark" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=oxstussz-eng&theme=darkhub&no-frame=true" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://count.getloli.com/get/@OxStussz?theme=asoul" alt="Visitor Count" />
 </p>
 
 ---
