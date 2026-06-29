@@ -46,40 +46,13 @@
 ---
 
 ### GitHub Stats
+---
 
 <p align="center">
   <a href="https://github.com/oxstussz-eng">
     <img align="center" src="https://raw.githubusercontent.com/Hunterdii/GitHub-Terminal/refs/heads/master/github_stats.svg" alt="GitHub Terminal Stats" />
   </a>
 </p>
-
----
-
-<!--📘 Check Out My Open Source Work-->
-
-<details open> 
-  <summary>
-    <h2>
-      <a href="https://github.com/oxstussz-eng">
-        <img src="https://github.com/user-attachments/assets/839a5b5b-14e8-4474-82d7-07215c6e4901" height="37px">
-      </a>
-      Check Out My Open Source Work
-    </h2>
-  </summary>
-
-  <p align="left">
-    <a href="https://github.com/oxstussz-eng/wp-scanner">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=oxstussz-eng&repo=wp-scanner&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="wp-scanner" />
-    </a>
-    <a href="https://github.com/oxstussz-eng/zxc">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=oxstussz-eng&repo=zxc&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="zxc" />
-    </a>
-  </p>
-
-  <a href="https://github.com/oxstussz-eng?tab=repositories&sort=stargazers">
-    <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=Teal&logo=repo" />
-  </a>
-</details>
 
 ---
 
