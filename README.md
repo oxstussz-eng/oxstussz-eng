@@ -47,9 +47,7 @@
 
 ### GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oxstussz-eng&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=oxstussz-eng&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 
 ---
 
