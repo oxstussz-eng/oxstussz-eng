@@ -47,49 +47,39 @@
 
 ### GitHub Stats
 
-class WhoIsThis 🧑‍💻:
-    user = "OXStusz 👨"
-    current_year = "2025 📆"
-    current_work = "Writing code with music essentials 🎧💻✨"
-    current_city = "Vadodara, Gujarat 🇮🇳 🌍"
-    current_project = "Developing a Web-App: FestivityFlippers 🎉🎯"
+<p align="center">
+  <a href="https://github.com/oxstussz-eng">
+    <img align="center" src="https://raw.githubusercontent.com/Hunterdii/GitHub-Terminal/refs/heads/master/github_stats.svg" alt="GitHub Terminal Stats" />
+  </a>
+</p>
 
-    hobbies = [
-            "Singing 🎤", "Travelling Like All Others ✈️🌍", "Drawing ✏️🎨",
-            "Watching old romantic movies 🎬❤️", "Being up all night chasing that ONE BUG... 🐞🌙💡"
-    ]
+---
 
-    favorite_singers = {
-        "Gujarati": ["Sachin-Jigar 🎶", "Aditya Gadhvi 🎵", "Gazals: Manhar Udhas 🎤"],
-        "Hindi": ["Arijit Singh 🎶", "Darshan Raval 🎵", "KK 🎤", "Atif Aslam 🎶", 
-                  "Vishal-Shekhar 🎹", "Ankit Tiwari 🎼", "Mithoon 🎵"],
-        "Punjabi": ["Harnoor B 🎶", "B Praak 🎵", "AP Dhillon 🎤", "Kaka 🎶", "Jass Manak 🎵"],
-        "English": ["Ed Sheeran 🎸", "Alan Walker 🎧", "Ruth B 🎤", "Adam Levine 🎵"]
-    }
+<!--📘 Check Out My Open Source Work-->
 
-    favorite_music_directors = ["R.D. Burman 🎶", "Pritam 🎵"]
+<details open> 
+  <summary>
+    <h2>
+      <a href="https://github.com/oxstussz-eng">
+        <img src="https://github.com/user-attachments/assets/839a5b5b-14e8-4474-82d7-07215c6e4901" height="37px">
+      </a>
+      Check Out My Open Source Work
+    </h2>
+  </summary>
 
-    ask_me_about = [
-                 "Web Development 🌐", "App Development 📱", 
-                 "Foody Talks 🍔", "Singing 🎤", "Creative Drawing ✏️"
-    ]
+  <p align="left">
+    <a href="https://github.com/oxstussz-eng/wp-scanner">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=oxstussz-eng&repo=wp-scanner&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="wp-scanner" />
+    </a>
+    <a href="https://github.com/oxstussz-eng/zxc">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=oxstussz-eng&repo=zxc&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="zxc" />
+    </a>
+  </p>
 
-    architecture_interest = ["Serverless Architecture 🧩", "Progressive Web Apps ⚙️", "Single Page Applications 🖥️"]
-
-    get_my_ambitions = [
-            "Master Cloud Computing ☁️",
-            "Crack a Google Interview and work at Google 💼✨",
-            "Build a Cross-Platform Game 🎮",
-            "Win a Design or Code Hackathon 🏆",
-            "Give a TED Talk on Tech + Creativity 🎤🧠",
-            "Build a Personal AI Assistant 🤖",
-            "Contribute to the Developer Community via YouTube or Blogs 📹✍️",
-            "Launch My Own Android App Startup 🚀📱",
-            "Record a Cover Song and Post on Spotify 🎶",
-            "Mentor Students or Juniors in Tech 👨‍🏫",
-            "Drink less coffee... maybe ☕😅"
-            # More dreams loading... 🔄😉
-        ]
+  <a href="https://github.com/oxstussz-eng?tab=repositories&sort=stargazers">
+    <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=Teal&logo=repo" />
+  </a>
+</details>
 
 ---
 
