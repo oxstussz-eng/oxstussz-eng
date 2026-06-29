@@ -50,6 +50,15 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=oxstussz-eng&theme=dark" alt="GitHub Streak" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=oxstussz-eng&theme=darkhub&no-frame=true" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oxstussz-eng&theme=react-dark" alt="GitHub Activity Graph" />
+</p>
+
 ---
 
 ### Social
