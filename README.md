@@ -47,11 +47,9 @@
 
 ### GitHub Stats
 
-| 📊 Activity | 💻 Tech Profile |
-| :--- | :--- |
-| ![](https://img.shields.io/github/followers/oxstussz-eng?style=flat-square&label=Followers&color=646CFF) | ![](https://img.shields.io/github/languages/count/oxstussz-eng/oxstussz-eng?style=flat-square&label=Languages&color=FF6700) |
-| ![](https://img.shields.io/github/stars/oxstussz-eng?style=flat-square&label=Total%20Stars&color=f7e018) | ![](https://img.shields.io/github/repo-size/oxstussz-eng/oxstussz-eng?style=flat-square&label=Repo%20Size&color=2496ED) |
-| ![](https://img.shields.io/github/search/oxstussz-eng/oxstussz-eng/todo?style=flat-square&label=Open%20Tasks&color=dd3a0a) | ![](https://img.shields.io/github/commit-activity/m/oxstussz-eng/oxstussz-eng?style=flat-square&label=Monthly%20Commits&color=4EAA25) |
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oxstussz-eng&theme=react-dark&area=true&hide_border=true" alt="OxStussz's GitHub Activity Graph" width="100%" />
+</p>
 
 ---
 
