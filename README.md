@@ -47,7 +47,7 @@
 
 ### GitHub Stats
 
-p align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=oxstussz-eng&show_icons=true&theme=dracula&count_private=true" alt="OxStussz's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oxstussz-eng&layout=compact&theme=tokyonight" alt="OxStussz's Top Languages" />
 </p>
