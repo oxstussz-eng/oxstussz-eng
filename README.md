@@ -48,7 +48,8 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oxstussz-eng&theme=react-dark&area=true&hide_border=true" alt="OxStussz's GitHub Activity Graph" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oxstussz-eng&theme=dracula" alt="GitHub Details" width="400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=oxstussz-eng&theme=dracula" alt="Top Commits" width="400" />
 </p>
 
 ---
