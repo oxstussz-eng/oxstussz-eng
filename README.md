@@ -48,8 +48,7 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oxstussz-eng&theme=dracula" alt="GitHub Details" width="400" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=oxstussz-eng&theme=dracula" alt="Top Commits" width="400" />
+  <img src="https://github-profile-3d-contrib.egco.jp/api/v1?username=oxstussz-eng" alt="OxStussz 3D Contribs" />
 </p>
 
 ---
