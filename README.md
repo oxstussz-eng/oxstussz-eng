@@ -48,7 +48,7 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-3d-contrib.egco.jp/api/v1?username=oxstussz-eng" alt="OxStussz 3D Contribs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=oxstussz-eng&theme=matrix&show_icons=true" alt="Matrix Stats" />
 </p>
 
 ---
