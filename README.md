@@ -47,9 +47,12 @@
 
 ### GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oxstussz-eng&theme=dark" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img src="https://github.com/oxstussz-eng/github-stats/blob/generated/overview.svg#gh-dark-mode-only" alt="GitHub Overview Dark" />
+  <img src="https://github.com/oxstussz-eng/github-stats/blob/generated/languages.svg#gh-dark-mode-only" alt="GitHub Languages Dark" />
+  <img src="https://github.com/oxstussz-eng/github-stats/blob/generated/overview.svg#gh-light-mode-only" alt="GitHub Overview Light" />
+  <img src="https://github.com/oxstussz-eng/github-stats/blob/generated/languages.svg#gh-light-mode-only" alt="GitHub Languages Light" />
+</div>
 
 ---
 
