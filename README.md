@@ -46,19 +46,10 @@
 ---
 
 ### GitHub Stats
-<div align="center">
 
-<a href="https://github.com/oxstussz-eng/github-stats#gh-dark-mode-only">
-  <img src="https://github.com/oxstussz-eng/github-stats/raw/generated/overview.svg#gh-dark-mode-only" alt="GitHub Overview Dark" />
-  <img src="https://github.com/oxstussz-eng/github-stats/raw/generated/languages.svg#gh-dark-mode-only" alt="GitHub Languages Dark" />
-</a>
-
-<a href="https://github.com/oxstussz-eng/github-stats#gh-light-mode-only">
-  <img src="https://github.com/oxstussz-eng/github-stats/raw/generated/overview.svg#gh-light-mode-only" alt="GitHub Overview Light" />
-  <img src="https://github.com/oxstussz-eng/github-stats/raw/generated/languages.svg#gh-light-mode-only" alt="GitHub Languages Light" />
-</a>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oxstussz-eng&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 ---
 
