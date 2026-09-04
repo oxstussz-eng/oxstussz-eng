@@ -3,7 +3,7 @@
 ####  Platform & Tools
 <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@OxStussz?theme=asoul" height="100" align="right"></a>
 
-[![](https://img.shields.io/badge/OS-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=ffffff)](https://ubuntu.com/)
+[![](https://img.shields.io/badge/OS-Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=ffffff)](https://archlinux.org/)
 [![](https://img.shields.io/badge/OS-Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=ffffff)](https://www.kali.org/)
 [![](https://img.shields.io/badge/Windows-11-4e9eee?style=for-the-badge&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/windows-11)   
 [![](https://img.shields.io/badge/Laptop-ThinkPad-1A1A1A?style=for-the-badge&logo=lenovo&logoColor=ffffff)](https://www.lenovo.com/us/en/thinkpad)
@@ -48,8 +48,7 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oxstussz-eng&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oxstussz-eng&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oxstussz-eng&theme=radical" alt="GitHub Streak" width="100%" />
 </p>
 
 ---
