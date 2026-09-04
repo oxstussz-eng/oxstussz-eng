@@ -45,10 +45,8 @@
 
 ---
 
-### GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oxstussz-eng&theme=radical" alt="GitHub Streak" width="100%" />
+  <img src="https://files.catbox.moe/81r3xl.gif" alt="GIF" width="100%" />
 </p>
 
 ---
