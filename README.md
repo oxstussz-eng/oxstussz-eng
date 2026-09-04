@@ -46,7 +46,7 @@
 ---
 
 <p align="center">
-  <img src="https://www.image2url.com/r2/default/gifs/1788523794012-f40501f2-ff6b-40f2-a1f7-6302813d1a38.gif" alt="gif" width="700" height="200">
+  <img src="https://www.image2url.com/r2/default/gifs/1788523794012-f40501f2-ff6b-40f2-a1f7-6302813d1a38.gif" alt="gif" width="800" height="150">
 </p>
 
 ---
